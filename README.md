@@ -26,13 +26,4 @@ SQL Server · Azure SQL · Microsoft Entra ID · Microsoft Graph
 
 Azure DevOps · Docker Compose · AVEVA System Platform · QuickScript
 
-<details>
-<summary>Læs på dansk</summary>
-
-Jeg er **softwareudviklerlærling hos Soft & Teknik A/S** og arbejder med **C#, ASP.NET Core, SQL og Microsoft-integrationer**.
-
-Jeg har arbejdet med bilbooking, medarbejdervisning og et værktøjsbookingsystem til min svendeprøve.
-
-</details>
-
 **Contact** · [mah@sogt.dk](mailto:mah@sogt.dk)
